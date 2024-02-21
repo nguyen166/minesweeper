@@ -1,0 +1,7 @@
+﻿  gamefunction.cpp
+D:\CS161\23125087_FinalProject\23125087_FinalProject\gamefunction.cpp(109,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\CS161\23125087_FinalProject\23125087_FinalProject\gamefunction.cpp(229,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  menu.cpp
+  Generating Code...
+  23125087_FinalProject.vcxproj -> D:\CS161\23125087_FinalProject\x64\Debug\23125087_FinalProject.exe
